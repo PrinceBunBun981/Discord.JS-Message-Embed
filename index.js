@@ -6,7 +6,7 @@
 
 const Discord = require("discord.js");
 const client = new Discord.Client({disableEveryone: true})
-const token = "Njc0NzU4ODgzNTAzMjQzMjY0.XjtQLg.cP4y4IlyrJReZ_4ONeicN3J0nXs" // Your bots token
+const token = "token" // Your bots token
 const prefix = "!" // The prefix your commands will have
 
 client.on('ready', () => {
