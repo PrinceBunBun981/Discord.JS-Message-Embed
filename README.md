@@ -6,3 +6,5 @@ Basic command code for embedded messages.
 Check out this link for the NodeJS download: https://nodejs.org/en/download/
 
 Heres info on how to install it all: https://phoenixnap.com/kb/install-node-js-npm-on-windows
+
+Once you have NodeJS and NPM, you need to install DiscordJS with `npm i discord.js`
